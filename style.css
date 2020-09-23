@@ -1,0 +1,16 @@
+.case {
+    display: flex;
+    height: 300px;
+    width: 200px;
+    padding: 20px;
+}
+.cafe{
+    padding: 5px;
+}
+.canela {
+    padding: 5px;
+}
+img {
+    height: 300px;
+    width: 200px;
+}
